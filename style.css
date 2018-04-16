@@ -1,0 +1,20 @@
+#container, section { width: 300px; height: 200px;  position: relative;  background: #000; margin: 0 auto; text-align: center}
+
+#container img {
+  width: 100%;
+}
+
+section {
+  height: 100px;
+}
+
+h4 {
+  margin: 0;
+  color: #fff;
+  padding: 10px;
+}
+
+
+
+
+
